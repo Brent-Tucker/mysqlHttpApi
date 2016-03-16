@@ -4,7 +4,7 @@
 
 1. OpenResty has been installed under /usr/local/openresty, please refer to http://www.openresty.org/ for details.
 
-2. Redis has been installed and without authentication settings.
+2. MySQL has been installed.
 
 
 ## Usage:
